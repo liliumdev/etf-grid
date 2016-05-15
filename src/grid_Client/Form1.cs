@@ -132,8 +132,8 @@ namespace grid_Client
 
                                     this.Invoke((MethodInvoker) delegate 
                                     {
-                                        pictureBox2.Location = new Point(x - 75, y - 75);
                                         pictureBox2.Visible = true;
+                                        pictureBox2.Location = new Point(x - 75, y - 75);
                                     });
                                 }
                             }
@@ -144,6 +144,8 @@ namespace grid_Client
                                 progressLabel.Text = (x + j * 2048).ToString() + " / " + maxWidth.ToString();
                             });
                         }
+
+                        if (finished) break;
 
                         j++;
                         usageLabel.Text = "CPU Usage: " + Math.Round(cpuCounter.NextValue(), 2) + "%";

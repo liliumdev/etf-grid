@@ -42,8 +42,6 @@ namespace grid_Server
         {
             while(true)
             {
-                Log("Waiting for a connection ... ");
-
                 Workers.Add(new Worker(server.AcceptTcpClient(), nextId));
 
                 Task t = new Task(new Action(() =>
