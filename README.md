@@ -45,3 +45,4 @@ U /bin folderu se nalazi kompajlirana verzija koja radi samo na localhostu, ali 
 4.	U serveru pritisnuti Work dugme
 5.	Sačekati rezultat
 
+![protokol, workflow, whatever](https://raw.githubusercontent.com/liliumdev/etf-grid/master/Ilustracija8.png)
