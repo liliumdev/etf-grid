@@ -1,0 +1,9 @@
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\grid_etf\grid_Client\bin\Debug\grid_Client.exe.config
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\grid_etf\grid_Client\bin\Debug\grid_Client.exe
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\grid_etf\grid_Client\bin\Debug\grid_Client.pdb
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\grid_etf\grid_Client\obj\Debug\grid_Client.Form1.resources
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\grid_etf\grid_Client\obj\Debug\grid_Client.Properties.Resources.resources
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\grid_etf\grid_Client\obj\Debug\grid_Client.csproj.GenerateResource.Cache
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\grid_etf\grid_Client\obj\Debug\grid_Client.exe
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\grid_etf\grid_Client\obj\Debug\grid_Client.pdb
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\grid_etf\grid_Client\obj\Debug\grid_Client.csprojResolveAssemblyReference.cache

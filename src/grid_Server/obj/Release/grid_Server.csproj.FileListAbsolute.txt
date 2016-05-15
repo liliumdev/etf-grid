@@ -1,0 +1,8 @@
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\grid_etf\grid_Server\bin\Release\grid_Server.exe.config
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\grid_etf\grid_Server\bin\Release\grid_Server.exe
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\grid_etf\grid_Server\bin\Release\grid_Server.pdb
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\grid_etf\grid_Server\obj\Release\grid_Server.Form1.resources
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\grid_etf\grid_Server\obj\Release\grid_Server.Properties.Resources.resources
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\grid_etf\grid_Server\obj\Release\grid_Server.csproj.GenerateResource.Cache
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\grid_etf\grid_Server\obj\Release\grid_Server.exe
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\grid_etf\grid_Server\obj\Release\grid_Server.pdb

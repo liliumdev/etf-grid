@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "grid_Server", "grid_Server\grid_Server.csproj", "{2990B666-B88C-4A59-9025-D2305C54E095}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "grid_Client", "grid_Client\grid_Client.csproj", "{3BC8A803-96E2-4092-BA57-21BBA357F0DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2990B666-B88C-4A59-9025-D2305C54E095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2990B666-B88C-4A59-9025-D2305C54E095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2990B666-B88C-4A59-9025-D2305C54E095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2990B666-B88C-4A59-9025-D2305C54E095}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BC8A803-96E2-4092-BA57-21BBA357F0DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BC8A803-96E2-4092-BA57-21BBA357F0DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BC8A803-96E2-4092-BA57-21BBA357F0DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BC8A803-96E2-4092-BA57-21BBA357F0DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

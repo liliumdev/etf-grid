@@ -1,0 +1,17 @@
+c:\users\lilium\documents\visual studio 2015\Projects\grid_Server\grid_Server\bin\Debug\grid_Server.exe.config
+c:\users\lilium\documents\visual studio 2015\Projects\grid_Server\grid_Server\bin\Debug\grid_Server.exe
+c:\users\lilium\documents\visual studio 2015\Projects\grid_Server\grid_Server\bin\Debug\grid_Server.pdb
+c:\users\lilium\documents\visual studio 2015\Projects\grid_Server\grid_Server\obj\Debug\grid_Server.csprojResolveAssemblyReference.cache
+c:\users\lilium\documents\visual studio 2015\Projects\grid_Server\grid_Server\obj\Debug\grid_Server.Properties.Resources.resources
+c:\users\lilium\documents\visual studio 2015\Projects\grid_Server\grid_Server\obj\Debug\grid_Server.csproj.GenerateResource.Cache
+c:\users\lilium\documents\visual studio 2015\Projects\grid_Server\grid_Server\obj\Debug\grid_Server.exe
+c:\users\lilium\documents\visual studio 2015\Projects\grid_Server\grid_Server\obj\Debug\grid_Server.pdb
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\grid_etf\grid_Server\bin\Debug\grid_Server.exe.config
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\grid_etf\grid_Server\obj\Debug\grid_Server.exe
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\grid_etf\grid_Server\obj\Debug\grid_Server.pdb
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\grid_etf\grid_Server\bin\Debug\grid_Server.exe
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\grid_etf\grid_Server\bin\Debug\grid_Server.pdb
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\grid_etf\grid_Server\obj\Debug\grid_Server.csprojResolveAssemblyReference.cache
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\grid_etf\grid_Server\obj\Debug\grid_Server.Properties.Resources.resources
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\grid_etf\grid_Server\obj\Debug\grid_Server.csproj.GenerateResource.Cache
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\grid_etf\grid_Server\obj\Debug\grid_Server.Form1.resources
